@@ -1,4 +1,4 @@
-baseURL = 'https://t0mf00l3ry.github.io/'
+baseURL = 'https://tomschdev.github.io/t0mf00l3ry/'
 languageCode = 'en-us'
 title = 'T0MF00L3RY'
-theme='hugo-theme-gallery'
+theme = 'gallery'
