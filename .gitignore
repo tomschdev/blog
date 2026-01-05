@@ -1,7 +1,7 @@
 # Generated files by hugo
-/public/
-/resources/_gen/
-/assets/jsconfig.json
+**/public/
+**/resources/_gen/
+**/assets/jsconfig.json
 hugo_stats.json
 
 # Executables (if you commit them to the repo)
@@ -11,3 +11,8 @@ hugo.linux
 
 # Temporary lock file while building
 /.hugo_build.lock
+# Hugo build output
+
+
+# macOS system files
+.DS_Store
